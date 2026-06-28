@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://zapretcore.ru/downloads.html"><img src="https://img.shields.io/badge/КАТАЛОГ%20СБОРОК-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwNTA1MDgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVWMTlBMiAyIDAgMCAxIDE5IDIxSDVBMiAyIDAgMCAxIDMgMTlWMTUiLz48cG9seWxpbmUgcG9pbnRzPSI3IDEwIDEyIDE1IDE3IDEwIi8+PGxpbmUgeDE9IjEyIiB5MT0iMTUiIHgyPSIxMiIgeTI9IjMiLz48L3N2Zz4=" alt="Скачать" /></a>&nbsp;&nbsp;
-  <a href="[https://tips.tips/000474682]"><img src="https://img.shields.io/badge/ПОДДЕРЖАТЬ-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjg0IDQuNjFhNS41IDUuNSAwIDAgMC03Ljc4IDBMMTIgNS42N2wtMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAtNy43OCA3Ljc4bDEuMDYgMS4wNkwxMiAyMS4yM2w3Ljc4LTcuNzggMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAgMC03Ljc4eiIvPjwvc3ZnPg==" alt="Поддержать" /></a>&nbsp;&nbsp;
+  <a href="https://tips.tips/000474682"><img src="https://img.shields.io/badge/ПОДДЕРЖАТЬ-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjg0IDQuNjFhNS41IDUuNSAwIDAgMC03Ljc4IDBMMTIgNS42N2wtMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAtNy43OCA3Ljc4bDEuMDYgMS4wNkwxMiAyMS4yM2w3Ljc4LTcuNzggMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAgMC03Ljc4eiIvPjwvc3ZnPg==" alt="Поддержать" /></a>&nbsp;&nbsp;
   <a href="https://t.me/wokeupinthemorning"><img src="https://img.shields.io/badge/TELEGRAM-1a1a2e?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
@@ -32,10 +32,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows%2010%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64-555?style=flat-square" />
   <img src="https://img.shields.io/badge/DirectX%2011-68217A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwb2x5Z29uIHBvaW50cz0iMTMgMiAzIDE0IDEyIDE0IDExIDIyIDIxIDEwIDEyIDEwIDEzIDIiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Signed-2E86C1?style=flat-square&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/v2.7.0c-E74C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zero%20Telemetry-1a8a4a?style=flat-square" />
+  <img src="https://img.shields.io/badge/v2.8.0-E74C3C?style=flat-square" />
 </p>
 
 <br>
@@ -50,7 +52,7 @@
 
 <br>
 
-<kbd>&nbsp;&nbsp;◆&nbsp; KERNEL LEVEL INJECTION &nbsp;◆&nbsp; DPI BYPASS PROTOCOL &nbsp;◆&nbsp; WINDIVERT ORCHESTRATION &nbsp;◆&nbsp; MTPROTO WEBSOCKET &nbsp;◆&nbsp; ZERO TELEMETRY &nbsp;◆&nbsp; PACKET FRAGMENTATION &nbsp;◆&nbsp;</kbd>
+<kbd>&nbsp;&nbsp;◆&nbsp; KERNEL LEVEL INJECTION &nbsp;◆&nbsp; DPI BYPASS PROTOCOL &nbsp;◆&nbsp; WINDIVERT ORCHESTRATION &nbsp;◆&nbsp; 40 PROFILES + CUSTOM &nbsp;◆&nbsp; MTPROTO WEBSOCKET &nbsp;◆&nbsp; ZERO TELEMETRY &nbsp;◆&nbsp; PACKET FRAGMENTATION &nbsp;◆&nbsp;</kbd>
 
 <br><br>
 
@@ -78,7 +80,7 @@
 </td>
 <td>
 
-&nbsp;&nbsp;**[`// 004`](#-профили-обхода)** Профили&nbsp;&nbsp;
+&nbsp;&nbsp;**[`// 004`](#-профили--пресеты)** Профили&nbsp;&nbsp;
 </td>
 <td>
 
@@ -101,30 +103,29 @@
 
 ## `// 001` Архитектура
 
-<sub>PLATFORM MODULES</sub>
+<sub>PLATFORM OVERVIEW</sub>
 
 <br>
 
 ```
-                        ╔══════════════════════════════════════════════════════════╗
-                        ║                  Z A P R E T   C O R E                  ║
-                        ║            C++20  ·  MSVC 2022  ·  Dear ImGui           ║
-                        ╠══════════════════╦══════════════════╦════════════════════╣
-                        ║    UI  LAYER     ║    NET  LAYER    ║    DPI  ENGINE     ║
-                        ║                  ║                  ║                    ║
-                        ║  Direct3D 11     ║  MTProto WS      ║  winws.exe         ║
-                        ║  Dear ImGui      ║  CF Balancer     ║  winws2.exe        ║
-                        ║  24 Themes       ║  HTTP Proxy      ║  WinDivert         ║
-                        ║  Animations      ║  Wi-Fi Setup     ║  28 Profiles       ║
-                        ║  Terminal        ║  DoH DNS         ║  Desync / Fake     ║
-                        ║  Chat            ║  CF Worker       ║  SNI Spoof         ║
-                        ╠══════════════════╩══════════════════╩════════════════════╣
-                        ║                  S E R V I C E S                         ║
-                        ║     Windows Service  ·  Autostart  ·  OTA  ·  Hosts Mgr  ║
-                        ╠═════════════════════════════════════════════════════════ ╣
-                        ║                WinDivert64.sys                           ║
-                        ║             ( Kernel-level NDIS hook )                   ║
-                        ╚═════════════════════════════════════════════════════════ ╝
+   ╔═══════════════════════════════════════════════════════════════════╗
+   ║                     Z A P R E T   C O R E   ·   v2.8.0             ║
+   ║              C++20  ·  MSVC v143/v145  ·  Dear ImGui  ·  DX11      ║
+   ╠═════════════════════╦═════════════════════╦═══════════════════════╣
+   ║      UI  LAYER      ║      NET  LAYER     ║      DPI  ENGINE      ║
+   ║                     ║                     ║                       ║
+   ║   Direct3D 11       ║   MTProto WS  :1080 ║   winws.exe           ║
+   ║   Dear ImGui        ║   CF Balancer       ║   winws2.exe  (Lua)   ║
+   ║   24 Themes         ║   HTTP Proxy  :8080 ║   WinDivert64.sys     ║
+   ║   Animations        ║   Wi-Fi Setup :8081 ║   40 Profiles + User  ║
+   ║   Terminal / Chat   ║   DoH DNS     :53   ║   Desync · Fake · SNI ║
+   ║   Adaptive Panel    ║   CF Worker         ║   Preset Builder      ║
+   ╠═════════════════════╩═════════════════════╩═══════════════════════╣
+   ║                       S E R V I C E S                             ║
+   ║   Windows Service · Autostart · OTA · Hosts Mgr · Flush DNS       ║
+   ╠═══════════════════════════════════════════════════════════════════╣
+   ║                   WinDivert64.sys — Kernel NDIS hook              ║
+   ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
@@ -136,7 +137,7 @@
 </tr>
 <tr>
 <td><b><code>Крипто</code></b></td>
-<td>Windows CNG — BCrypt AES-CTR (MTProto handshake) · DPAPI</td>
+<td>Windows CNG — BCrypt AES-CTR (MTProto handshake) · DPAPI для токенов</td>
 </tr>
 <tr>
 <td><b><code>Сеть</code></b></td>
@@ -144,15 +145,15 @@
 </tr>
 <tr>
 <td><b><code>DPI</code></b></td>
-<td>WinDivert64.sys — перехват пакетов на уровне ядра NDIS</td>
+<td>WinDivert64.sys — перехват пакетов на уровне ядра NDIS · winws / winws2</td>
 </tr>
 <tr>
 <td><b><code>Конфиг</code></b></td>
-<td>JSON (миграция с INI) · DPAPI для учётных данных</td>
+<td><code>config.json</code> (миграция с INI) · <code>account.dat</code> под DPAPI</td>
 </tr>
 <tr>
 <td><b><code>Сборка</code></b></td>
-<td>Visual Studio 2022 · MSVC v145 · C++20 · Windows x64</td>
+<td>Visual Studio 2022 · MSVC v143/v145 · C++20 · Windows x64 · подпись signtool</td>
 </tr>
 </table>
 
@@ -188,7 +189,7 @@
 **✓&nbsp; Никакого аккаунта.**
 Установил, запустил — работает. Никакой подписки, лимитов, телеметрии.
 
-**✓&nbsp; HTTP-прокси для телефона.**
+**✓&nbsp; Раздача на телефон.**
 Один ПК раздаёт обход на все устройства Wi-Fi сети — без root, без VPN-приложений на смартфоне.
 
 </td>
@@ -209,7 +210,7 @@
 Доверие сторонней компании, риск утечек логов, ежемесячная плата.
 
 **✗&nbsp; Каждое устройство отдельно.**
-Свой клиент на каждый телефон, ПК и приставку — и платная подписка масштабируется по числу устройств.
+Свой клиент на каждый телефон, ПК и приставку — подписка масштабируется по числу устройств.
 
 </td>
 </tr>
@@ -237,11 +238,13 @@
 
 | | |
 |:--|:--|
-| 🔹 | **28 профилей обхода DPI** — под каждого провайдера |
+| 🔹 | **40 профилей обхода DPI** — под каждого провайдера |
+| 🔹 | **Конструктор пресетов** — свои стратегии на вкладке `User` |
 | 🔹 | **Kernel-level перехват** через WinDivert64.sys |
 | 🔹 | **Нулевая задержка** — 100% скорости канала |
 | 🔹 | **Hot-swap профилей** — переключение на лету |
-| 🔹 | **Adaptive Scanner** — автоподбор профиля |
+| 🔹 | **Adaptive Engine** — автоподбор по web + голосу (STUN) |
+| 🔹 | **Game Mode** — фильтр `TCP+UDP / TCP / UDP` для игр |
 | 🔹 | **Windows Service** — фоновая работа, автозапуск |
 
 </td>
@@ -251,12 +254,13 @@
 
 | | |
 |:--|:--|
-| 🔹 | **MTProto Proxy** — Telegram через WebSocket + CF CDN |
+| 🔹 | **MTProto Proxy** — Telegram через WebSocket + CF CDN `:1080` |
 | 🔹 | **Cloudflare Worker** — резервный канал через Workers |
 | 🔹 | **HTTP Proxy** — раздача обхода на телефон `:8080` |
 | 🔹 | **Wi-Fi Setup** — веб-страница с QR-кодом `:8081` |
 | 🔹 | **Hosts Manager** — обход L7-блокировок |
-| 🔹 | **DoH DNS** — DNS-over-HTTPS через CF `1.1.1.1` |
+| 🔹 | **DoH DNS** — DNS-over-HTTPS через CF `1.1.1.1` `:53` |
+| 🔹 | **Flush DNS+** — чистит и кэш Discord / Telegram / Steam |
 
 </td>
 </tr>
@@ -269,6 +273,7 @@
 |:--|:--|
 | 🔹 | **24 темы** — 12 тёмных + 12 светлых |
 | 🔹 | **Color Picker** — настройка акцентного цвета |
+| 🔹 | **Избранное** — звёздочка на любой карточке профиля |
 | 🔹 | **Встроенный терминал** — cmd.exe в приложении |
 | 🔹 | **Встроенный чат** — общение с сообществом |
 | 🔹 | **Атмосферные эффекты** — Snow / Matrix / FCK RKN |
@@ -283,10 +288,10 @@
 |:--|:--|
 | 🔹 | **Подписанные бинарники** — signtool + сертификат |
 | 🔹 | **xorstr обфускация** — строки зашифрованы compile-time |
-| 🔹 | **Права администратора** — WinDivert требует elevation |
+| 🔹 | **DPAPI шифрование** — токен в `account.dat`, не plaintext |
 | 🔹 | **Локальная обработка** — никаких внешних серверов |
+| 🔹 | **Права администратора** — WinDivert требует elevation |
 | 🔹 | **Аккаунт-система** — роли, аватары, профили |
-| 🔹 | **DPAPI шифрование** — учётные данные защищены |
 
 </td>
 </tr>
@@ -298,15 +303,15 @@
 
 <br>
 
-<!---------- SECTION 004 — PROFILES ---------->
+<!---------- SECTION 004 — PROFILES & PRESETS ---------->
 
-## `// 004` Профили обхода
+## `// 004` Профили & Пресеты
 
-<sub>28 DPI-DESYNC STRATEGIES</sub>
+<sub>40 DPI-DESYNC STRATEGIES + CUSTOM BUILDER</sub>
 
 <br>
 
-> 28 предустановленных стратегий, каждая под конкретные условия. **Hot-swap** — кликните на другой профиль при работающем обходе, движок автоматически перезапустится.
+> **40 встроенных стратегий** + неограниченное число **своих пресетов**. **Hot-swap** — кликните на другой профиль при работающем обходе, движок перезапустится автоматически. Профили разложены по вкладкам.
 
 <br>
 
@@ -314,41 +319,43 @@
 <tr>
 <td>
 
-#### &nbsp; `УНИВЕРСАЛЬНЫЕ` <sub>— рекомендуются для начала</sub>
+#### &nbsp; `ВКЛАДКИ ПРОФИЛЕЙ`
 
-| Профиль | Стратегия | Лучше всего для |
-|:--------|:----------|:----------------|
-| **`P3`** | Fake + Split | YouTube, Discord, Telegram |
-| **`P5`** | Multisplit + BadSeq | Twitch, YouTube, общий обход |
-| **`P7`** | FakedSplit + TTL | Стабильный обход большинства провайдеров |
+| Вкладка | Что внутри |
+|:--------|:-----------|
+| ⭐ **Favourites** | Избранное — собирается со звёздочек на карточках |
+| **Main** | 16 основных профилей `P1–P14, P39, P40` |
+| **Custom** | Универсальные + кастомные `P29–P36` |
+| **Lua** | Lua-движок `winws2.exe` — `P15–P21, P38` |
+| **Lua+** | Расширенный Lua — `P22–P28, P37` |
+| 🩷 **User** | **Свои пресеты** — конструктор стратегий |
 
 </td>
 </tr>
 <tr>
 <td>
 
-#### &nbsp; `ИГРОВЫЕ` <sub>— P10 – P14</sub>
+#### &nbsp; `УНИВЕРСАЛЬНЫЕ` <sub>— рекомендуются для начала</sub>
+
+| Профиль | Стратегия | Лучше всего для |
+|:--------|:----------|:----------------|
+| **`P3`** | HostFakeSplit | YouTube, Discord, Telegram |
+| **`P5`** | Syndata + Multidisorder | Twitch, YouTube, общий обход |
+| **`P7`** | Fake + BadSeq | Стабильный обход большинства провайдеров |
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### &nbsp; `ИГРОВЫЕ` <sub>— расширенные порты + STUN</sub>
 
 | Профиль | Описание | Рекомендация |
 |:--------|:---------|:-------------|
 | **`P10`** | Apex / Multisplit AutoTTL | Apex Legends |
 | **`P11`** | Fuck DPI / Multisplit + Syndata | Мультиигровой |
 | **`P12`** | Real / Apex FakedSplit | **Лучший для Apex** |
-| **`P13`** | General ALT 7.1 (расш. порты + STUN) | Общие игры |
-| **`P14`** | General ALT 7.2 (расш. порты + STUN) | Общие игры |
-
-</td>
-</tr>
-<tr>
-<td>
-
-#### &nbsp; `TWITCH`
-
-| Профили | Статус | Примечание |
-|:--------|:-------|:-----------|
-| **`P3, P5, P6, P7, P9`** | Полный обход | Стрим + чат сразу |
-| **`P1, P2, P8, P11, P12`** | Работает | Чат подключается с задержкой |
-| **`P14`** | Частично | Работает после ожидания |
+| **`P13/P14`** | General ALT 7.1 / 7.2 | Общие игры + голос |
 
 </td>
 </tr>
@@ -356,8 +363,27 @@
 
 <br>
 
+#### &nbsp; 🩷 `КОНСТРУКТОР ПРЕСЕТОВ` <sub>— вкладка User</sub>
+
+Не подошёл ни один профиль? Соберите **свой**. На вкладке **User** кнопка
+**«Создать новый пресет»** создаёт файл `custom\userN.txt` с рабочим шаблоном (на
+базе `P3`) и открывает его в блокноте. Движок `winws.exe` и порты подставляются
+автоматически — вы пишете только стратегию.
+
+```
+✦  Двойной клик по карточке   →  открыть пресет в блокноте
+✦  Одинарный клик             →  выбрать активным (+ hot-swap)
+✦  Звёздочка                  →  добавить в избранное
+✦  Кнопка «Как сделать пресет?» →  открыть полный гайд
+```
+
 > [!TIP]
-> **Не знаете какой профиль?** Нажмите **`АВТО-ПОДБОР`** в адаптивном сканере — программа автоматически найдёт лучший профиль для вашего провайдера.
+> **Полное руководство по созданию пресетов** — [`manual.md`](https://github.com/dysonbeh1nd/zapret-discord-youtube/blob/main/manual.md): определения, анатомия секций, что куда вставлять, сборка с нуля, рецепты и диагностика.
+
+<br>
+
+> [!TIP]
+> **Не знаете какой профиль?** Откройте **Adaptive Engine** в Settings и запустите **`АВТО-ПОДБОР`** — программа сама найдёт лучший профиль для вашего провайдера, проверяя и сайты, и голосовой трафик.
 
 <br><br>
 
@@ -374,6 +400,48 @@
 <br>
 
 <details open>
+<summary><b><code>&nbsp; КОНСТРУКТОР ПРЕСЕТОВ &nbsp;</code></b> — свои стратегии обхода (вкладка User)</summary>
+
+<br>
+
+Полноценный редактор пользовательских стратегий `winws.exe`.
+
+| Возможность | Описание |
+|:------------|:---------|
+| **Несколько пресетов** | Файлы `custom\user.txt`, `user2.txt`, … — по карточке на каждый |
+| **Рабочий шаблон** | Создаётся из P3-style профиля, запускается сразу |
+| **Авто-подстановка** | `winws.exe`, `--wf-tcp`, `--wf-udp` добавляются программой |
+| **Абсолютизация путей** | `bin/…` и `lists/…` сами превращаются в полные пути |
+| **Hot-swap + избранное** | Как у обычных профилей |
+| **Гайд** | Кнопка открывает `manual.md` в браузере |
+
+```
+Settings → Профили → User → ➕ Создать новый пресет
+```
+
+<br>
+</details>
+
+<details>
+<summary><b><code>&nbsp; ADAPTIVE ENGINE &nbsp;</code></b> — автоподбор профиля по web + голосу</summary>
+
+<br>
+
+```
+1. Откройте Adaptive Engine в Settings и нажмите АВТО-ПОДБОР
+2. Движок прогоняет профили по тестовым HTTPS-доменам И голосовым целям:
+     · discord.media:443        (web/voice TCP)
+     · stun.l.google.com:19302  (STUN binding по UDP)
+3. STUN-пинг идёт по тому же DPI-обходу, что и реальный Discord-войс
+4. Результаты делятся на web / STUN — лучший профиль применяется сам
+```
+
+> Раздельный замер web и голоса убирает старую проблему «в чекере 30 мс, а голос рвётся». База знаний — `adaptive_knowledge.dat` (v4).
+
+<br>
+</details>
+
+<details>
 <summary><b><code>&nbsp; MTPROTO PROXY &nbsp;</code></b> — Telegram через WebSocket + Cloudflare CDN</summary>
 
 <br>
@@ -422,14 +490,14 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 </details>
 
 <details>
-<summary><b><code>&nbsp; HTTP PROXY &nbsp;</code></b> — раздача обхода на мобильные устройства</summary>
+<summary><b><code>&nbsp; HTTP PROXY + Wi-Fi SETUP &nbsp;</code></b> — раздача обхода на мобильные устройства</summary>
 
 <br>
 
 | Порт | Назначение |
 |:-----|:-----------|
 | **`:8080`** | HTTP Proxy для браузера и приложений |
-| **`:8081`** | Веб-страница настройки с QR-кодом |
+| **`:8081`** | Веб-страница настройки с QR-кодом + PAC-файл |
 
 ```
 1. Включите HTTP Proxy в Settings
@@ -438,23 +506,6 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 ```
 
 > ПК и телефон должны быть в одной Wi-Fi сети.
-
-<br>
-</details>
-
-<details>
-<summary><b><code>&nbsp; ADAPTIVE SCANNER &nbsp;</code></b> — автоматический подбор профиля</summary>
-
-<br>
-
-```
-1. Нажмите АВТО-ПОДБОР на Dashboard
-2. Сканер проверит все профили через TCP RTT (time_connect)
-3. Лучший профиль применится автоматически
-4. Бейджи покажут все рабочие альтернативы
-```
-
-> Пинг измеряется реалистично — чистый TCP round-trip, без overhead запуска процесса.
 
 <br>
 </details>
@@ -474,19 +525,20 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 
 - Записи в маркированном блоке `# ZAPRET CORE HOSTS BEGIN ... END`
 - «Очистить» удаляет только наш блок — ваши записи не трогаются
-- Автоматический `ipconfig /flushdns` после каждого изменения
+- Автоматический flush DNS после каждого изменения
 
 <br>
 </details>
 
 <details>
-<summary><b><code>&nbsp; DNS TOOLS &nbsp;</code></b> — DoH + SNI Spoofing</summary>
+<summary><b><code>&nbsp; DNS TOOLS + FLUSH &nbsp;</code></b> — DoH, SNI Spoofing, очистка кэшей</summary>
 
 <br>
 
-- **DoH** — DNS-over-HTTPS через Cloudflare `1.1.1.1`
+- **DoH** — DNS-over-HTTPS через Cloudflare `1.1.1.1` (локальный форвардер `:53`)
 - **SNI Spoofing** — маскировка целевого домена
-- DNS-серверы: `Zapret DNS` · `XBOX DNS` · `Comss DNS` · `Malware DNS`
+- DNS-пресеты: `Zapret DNS` · `XBOX DNS` · `Comss DNS` · `Cloudflare` · `Google` · `Quad9` · `AdGuard`
+- **Flush DNS+** — чистит системный DNS **и** внутренние кэши Chromium-приложений: Discord, Telegram Desktop, Steam (запущенные файлы пропускаются)
 
 <br>
 </details>
@@ -591,9 +643,10 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 
 ```
  01   Скачайте последний релиз с zapretcore.ru или GitHub Releases
- 02   Распакуйте в любую папку
+ 02   Распакуйте в любую папку (путь без кириллицы)
  03   Запустите zapret core.exe от имени администратора
  04   Выберите профиль (P3, P5, P7 — универсальные) и нажмите «Запустить обход»
+ 05   Не подошло? Adaptive Engine → АВТО-ПОДБОР  ·  или соберите свой на вкладке User
 ```
 
 <br>
@@ -613,9 +666,10 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 
 ### OTA-обновления
 
-- Автоматическая проверка новых версий
-- Пользовательские списки (`*-user`) сохраняются
-- Поддержка версий с суффиксами (`2.7.0a`, `2.7.0b`, `2.7.0c`)
+- Автоматическая проверка новых версий с GitHub Releases
+- Пользовательские списки (`*-user`) и пресеты (`custom\`) сохраняются
+- Снимок активного профиля и состояния службы — восстанавливаются после рестарта
+- Поддержка версий с суффиксами (`2.8.0a`, `2.8.0b`, …)
 - Одно нажатие — скачать и применить
 
 <br><br>
@@ -647,7 +701,17 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 
 <br>
 
-Начните с **P3**, **P5** или **P7** — они универсальные. Если не работает — запустите **Adaptive Scanner** (кнопка `АВТО-ПОДБОР`), он автоматически найдёт лучший профиль.
+Начните с **P3**, **P5** или **P7** — они универсальные. Если не работает — откройте **Adaptive Engine** (`АВТО-ПОДБОР`), он сам найдёт лучший профиль, проверяя и сайты, и голосовой трафик.
+
+<br>
+</details>
+
+<details>
+<summary>&nbsp;<b>Ни один профиль не подходит — что делать?</b></summary>
+
+<br>
+
+Соберите **свой пресет** на вкладке **User**: кнопка «Создать новый пресет» даст рабочий шаблон, а кнопка «Как сделать пресет?» откроет подробный гайд [`manual.md`](https://github.com/dysonbeh1nd/zapret-discord-youtube/blob/main/manual.md). Движок и порты подставляются автоматически — вы пишете только стратегию обхода.
 
 <br>
 </details>
@@ -662,6 +726,16 @@ cf_first OFF:  CF Worker  →  TCP  →  CF Proxy
 3. Следуйте инструкциям или отсканируйте QR-код
 
 ПК и телефон должны быть в одной Wi-Fi сети.
+
+<br>
+</details>
+
+<details>
+<summary>&nbsp;<b>В чекере пинг низкий, а голос в Discord рвётся</b></summary>
+
+<br>
+
+Так бывает, если профиль подобран только по web-трафику. **Adaptive Engine** теперь отдельно замеряет голос — отправляет STUN-запрос по UDP через тот же DPI-обход, что и реальный Discord-войс. Запустите `АВТО-ПОДБОР` заново и ориентируйтесь на STUN-результат.
 
 <br>
 </details>
@@ -697,16 +771,6 @@ DPI-обход и HOSTS работают на разных уровнях. HOSTS
 </details>
 
 <details>
-<summary>&nbsp;<b>После обновления пропали настройки hosts</b></summary>
-
-<br>
-
-Пользовательские списки (`*-user`) сохраняются при OTA начиная с v2.7.0. Если вы обновляетесь с более ранней версии — сохраните настройки вручную.
-
-<br>
-</details>
-
-<details>
 <summary>&nbsp;<b>Twitch не работает</b></summary>
 
 <br>
@@ -729,7 +793,7 @@ DPI-обход и HOSTS работают на разных уровнях. HOSTS
 >
 > | Ресурс | Ссылка |
 > |:-------|:-------|
-> | GitHub | **[zapretcore/zapret-core](https://github.com/dysonbehind/zapret-discord-youtube)** |
+> | GitHub | **[dysonbeh1nd/zapret-discord-youtube](https://github.com/dysonbeh1nd/zapret-discord-youtube)** |
 > | Сайт | **[zapretcore.ru](https://zapretcore.ru)** |
 > | Telegram | **[@zapretcore](https://t.me/wokeupinthemorning)** |
 >
@@ -742,7 +806,7 @@ DPI-обход и HOSTS работают на разных уровнях. HOSTS
 > **WinDivert** детектируется антивирусами как `RiskTool.Multi.WinDivert` — это штатное поведение для драйверов, работающих с сетевым стеком. Добавьте директорию программы в исключения.
 
 > [!NOTE]
-> **Исходный код не публикуется.** Распространяются только подписанные бинарники через [Releases](https://github.com/dysonbehind/zapret-discord-youtube/releases). Проект разрабатывается приватно.
+> **Исходный код не публикуется.** Распространяются только подписанные бинарники через [Releases](https://github.com/dysonbeh1nd/zapret-discord-youtube/releases). Проект разрабатывается приватно.
 
 <br><br>
 
@@ -769,15 +833,15 @@ DPI-обход и HOSTS работают на разных уровнях. HOSTS
 ---
 
 <p align="center">
-  <sub><b>ZAPRET CORE</b> &copy; 2026 DYSONBEHIND</sub>
+  <sub><b>ZAPRET CORE</b> &copy; 2026 DYSONBEHIND&nbsp;&nbsp;·&nbsp;&nbsp;v2.8.0</sub>
 </p>
 <p align="center">
   <sub>
     <a href="https://zapretcore.ru">zapretcore.ru</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/dysonbehind/zapret-discord-youtube">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/dysonbeh1nd/zapret-discord-youtube">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://t.me/wokeupinthemorning">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://zapretcore.ru/donators.html">Меценаты</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://zapretcore.ru/games.html">Игры</a>
+    <a href="https://github.com/dysonbeh1nd/zapret-discord-youtube/blob/main/manual.md">Гайд по пресетам</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://zapretcore.ru/donators.html">Меценаты</a>
   </sub>
 </p>
 
